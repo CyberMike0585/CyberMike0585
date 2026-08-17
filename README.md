@@ -41,12 +41,6 @@
 
 ### Helpdesk / Ticketing
 
-| Project | Notes |
-|---|---|
-| [osTicket Helpdesk Simulation](https://github.com/CyberMike0585/REPO-NAME-HERE) | Departments, SLAs, full ticket lifecycle |
-
----
-
 ## Certifications
 
 **Earned**

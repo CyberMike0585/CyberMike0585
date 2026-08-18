@@ -39,11 +39,7 @@
 | [RHEL Helpdesk Automation](https://github.com/CyberMike0585/helpdesk-automation) | Bash onboarding/offboarding scripts |
 | [Linux Server Hardening Lab](https://github.com/CyberMike0585/linux-server-hardening-lab) | SSH hardening · firewalld · Fail2Ban · Lynis audit (before/after score) |
 
-### Helpdesk / Ticketing
 
-| Project | Notes |
-|---|---|
-| osTicket Helpdesk Simulation | Departments, SLAs, full ticket lifecycle *(repo not yet published)* |
 
 ---
 
